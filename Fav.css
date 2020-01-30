@@ -1,0 +1,16 @@
+.jumbotron {
+    background-color:rgba(219, 250, 249, 0.541);
+    border-style: solid;
+    border-color:rgba(27, 73, 101, 0.575) ;
+    text-align: center;
+}
+
+#code {
+    color: aqua;  
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    font-family: inherit ;
+   
+}
